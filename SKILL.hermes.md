@@ -90,4 +90,4 @@ Total: 20s                     Task B → 10s
 
 ---
 
-Built by [nerua1](https://github.com/nerua1). Support: [PayPal.me/nerudek](https://www.paypal.me/nerudek)
+Built by [nerudek](https://github.com/nerudek). Support: [PayPal.me/nerudek](https://www.paypal.me/nerudek)
