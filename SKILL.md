@@ -1,14 +1,13 @@
 ---
-compatible-with: openclaw
+compatible-with: [openclaw, hermes]
 
 > **Why this exists:** "openclaw sessions spawn" sounded great in theory. In practice, it doesn't exist. This skill provides real PID-based process tracking for actual task execution.
 
 name: ultrawork
 description: Parallel execution engine - run multiple tasks simultaneously for speed
-version: 1.0.0
+version: 1.0.1
 author: Rook (adapted from oh-my-codex)
 ---
-compatible-with: openclaw
 
 # Ultrawork Skill for OpenClaw
 
@@ -355,6 +354,5 @@ Verifying...
 - 1.0.0: Initial implementation based on oh-my-codex ultrawork skill
 
 ---
-compatible-with: openclaw
 
 If this saved you time: [☕ PayPal.me/nerudek](https://www.paypal.me/nerudek)
